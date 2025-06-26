@@ -1,16 +1,57 @@
-# payment_methods
+# 💳 Flutter Payment Methods Practice App
 
-A new Flutter project.
+A clean and beginner-friendly Flutter app that demonstrates how to integrate and test real-world payment methods like **Stripe** and **PayPal**, with visual credit card UI and secure form validation
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 💳 Add and validate credit card details with visual feedback  
+- 💰 Make payments using Stripe securely within the app  
+- 🅿️ Pay easily via PayPal with real-time response handling  
+- 🔐 Secure form and data handling with error validation  
+- 🧠 BLoC pattern for scalable, testable state management  
+- 🔄 Seamless UI feedback with loading overlays  
+- 🧪 Easily extendable for future gateways or testing integrations 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🛠️ Languages and Tools
+
+<p align="left"> 
+        <img src="https://skillicons.dev/icons?i=flutter,dart,vscode,git,github" alt="Tech stack icons" />
+        <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+---
+
+## 📦 Packages Used
+
+- 💳 `flutter_credit_card` 
+- 💸 `flutter_stripe`
+- 🅿️ `flutter_paypal_payment` 
+- 📡 `dio` 
+- 🧠 `flutter_bloc`
+- 🧰 `get_it` 
+- 🎯 `dartz` 
+- 🖼️ `flutter_svg` 
+- ⏳ `modal_progress_hud_nsn` 
+- 🌟 `font_awesome_flutter` 
+
+---
+
+## 📬 Connect with Me
+
+<h5 align="left"> 
+  <a href="https://www.linkedin.com/in/fady-esam/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fady Esam" height="45" width="45" /> 
+  </a> 
+  &nbsp;
+  <a href="mailto:fady.esam.0101@gmail.com" target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="45" width="50" /> 
+  </a> 
+</h5>
+
+
+

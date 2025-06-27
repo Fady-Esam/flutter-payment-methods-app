@@ -1,6 +1,7 @@
 # 💳 Flutter Payment Methods Practice App
 
-A clean and beginner-friendly Flutter app that demonstrates how to integrate and test real-world payment methods like **Stripe** and **PayPal**, with visual credit card UI and secure form validation
+A clean and beginner-friendly Flutter app that demonstrates how to integrate and test real-world payment methods like **Stripe** and **PayPal**, with visual credit card UI and secure form validation.  
+Built with MVVM architecture for scalability and maintainability and BLoC pattern for predictable and scalable UI logic.
 
 ---
 
@@ -10,9 +11,10 @@ A clean and beginner-friendly Flutter app that demonstrates how to integrate and
 - 💰 Make payments using Stripe securely within the app  
 - 🅿️ Pay easily via PayPal with real-time response handling  
 - 🔐 Secure form and data handling with error validation  
-- 🧠 BLoC pattern for scalable, testable state management  
 - 🔄 Seamless UI feedback with loading overlays  
 - 🧪 Easily extendable for future gateways or testing integrations 
+- 🗂️ MVVM Architecture with a clear separation of concerns between Model, View, and ViewModel layers for scalability and maintainability
+- 🧠 Robust State Management built with the BLoC pattern for predictable and scalable UI logic
 
 ---
 

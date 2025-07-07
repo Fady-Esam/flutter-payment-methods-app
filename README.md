@@ -5,7 +5,7 @@ Built with **MVVM** architecture for scalability and maintainability and **BLoC*
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
 - 💳 Add and validate credit card details with visual feedback  
 - 💰 Make payments using Stripe securely within the app  
